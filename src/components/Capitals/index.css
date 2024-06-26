@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #f8fafc;
+  height: 200px;
+  padding: 30px;
+  border-radius: 10px;
+}
+.country {
+  font-weight: bold;
+  font-size: 17px;
+}
+.heading {
+  font-size: 23px;
+}
+.select-tag {
+  height: 25px;
+  margin-right: 10px;
+}
